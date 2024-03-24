@@ -16,6 +16,6 @@ You can access the entire course playlist on YouTube [here](https://www.youtube.
 
 4. **Matplotlib**: Introduction to Matplotlib library for data visualization in Python, including plotting various types of charts such as line plots, scatter plots, histograms, and more.
 
-5. **Statistics**: Basics of statistics in Python, covering descriptive statistics, inferential statistics, hypothesis testing, and probability distributions.
+5. **Statistics**: Basics of statistics in Python, covering most of the statistical concepts.
 
 Feel free to explore the videos at your own pace and delve into each concept to enhance your Python programming skills and understanding of data analysis and visualization. Happy learning! 🐍📊
